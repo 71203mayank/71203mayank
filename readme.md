@@ -11,9 +11,6 @@
   <a href="https://x.com/mayankgupt_a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <div align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=71203mayank.71203mayank&"  />
-  </div>
 </div>
 
 ###
@@ -22,7 +19,7 @@
 
 ###
 
-<p align="left">A passionate developer and programmer who loves solving real-world problems and participating in hackathons.<br><br>- 🔭 I’m a 4th year Computer Science and Engineering student at NIT Calicut.<br>- 📚 I'm currently exploring Golang and Machine Learning.<br>- ⚡ In my free time I design and develop websites and draw miniature city landscapes.</p>
+<p align="left">A passionate developer and programmer who loves solving real-world problems and participating in hackathons.<br><br>- 🏫 I’m a 4th year Computer Science and Engineering student at NIT Calicut.<br>- 🔭 I'm currently exploring Golang and Machine Learning.<br>- ⚡ In my free time I design and develop websites and draw miniature city landscapes.</p>
 
 ###
 
@@ -68,15 +65,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=71203mayank&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=71203mayank&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=71203mayank&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 align="left">:handshake: Connect with me</h3>
 
 ###
 
